@@ -15,9 +15,8 @@ Using your collin email create a github account:
 - Follow the instructions and create your `STUDENT` account
 
 Once your account is created reload this page and fork the repository https://github.com/profjmedina/containers-introduction 
-- Accept the invitation you will receive at first because this repository is private.
 - On the Top-Right Corner click on Fork
-- Now you have created a local copy of the class reposiroty in your own account and you can play with it as needed without worring on breaking anything. If something goes wrong just for it again ;-) 
+- Now you have created a local copy of the class repository in your own account and you can play with it as needed without worring on breaking anything. If something goes wrong just for it again ;-) 
 
 ### Learn the basics of GitHub
 
