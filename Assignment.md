@@ -22,7 +22,8 @@ Once your account is created reload this page and fork the repository https://gi
 
 You will need to understand more about GitHub so take a look a this video
 
-https://www.youtube.com/watch?v=USjZcfj8yxE
+[![Learn GIT in 15 minutes](http://img.youtube.com/vi/USjZcfj8yxE/0.jpg)](
+https://www.youtube.com/watch?v=USjZcfj8yxE "Learn GIT in 15 minutes")
 
 ### Make your first changes on your repo
 
