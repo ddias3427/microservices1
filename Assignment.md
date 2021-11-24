@@ -28,7 +28,7 @@ https://www.youtube.com/watch?v=USjZcfj8yxE "Learn GIT in 15 minutes")
 ### Make your first changes on your repo
 
 - Create a new branch called `assigment1`
-- Inside of the new branch create 1 file called `submission.md` inside of a folder named `sub` with the following content (fill in the blanks):
+- Inside of the new branch create a new folder named `sub` and insider of the sub folder a new file called `submission.md` with the following content:
 
 ```markdown
 # Student name: 
