@@ -13,7 +13,7 @@ Containers are created from container images that act like templates that hold a
 
 Containers doesn't care what you ship in it: It can be build in your laptop and be deployed on the cloud in the other side of the world, it is interchangeable, stackable, portable and as generic as possible.
 
-![image-20210621090129570](imeges1/image-20210621090129570.png)
+![image-20210621090129570](images1/image-20210621090129570.png)
 
 ## Virtual Machines
 
